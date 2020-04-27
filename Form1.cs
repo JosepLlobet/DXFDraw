@@ -23,7 +23,7 @@ namespace testDXF
             _m_hDrawing = CadLib.InitSystem_1();
 
             bool aux = CadLib.drwLoadDataFromFile_1(_m_hDrawing, 0, 0,
-                            GetBytesFromStringWithZero(Encoding.Default, @"C:\Users\Josep\Desktop\sample.dxf"), IntPtr.Zero);            
+                            GetBytesFromStringWithZero(Encoding.Default, Application.StartupPath + "\\sample.dxf"), IntPtr.Zero);            
 
             aux = CadLib.drwInitView_1(_m_hDrawing, 0, 0, (Int64)m_panel.Width, (Int64)m_panel.Height);
             aux = CadLib.drwZoomExtents_1(_m_hDrawing);
