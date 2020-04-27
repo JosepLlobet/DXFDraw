@@ -1,0 +1,10 @@
+C:\Users\Josep\source\repos\testDXF\bin\Debug\testDXF.exe.config
+C:\Users\Josep\source\repos\testDXF\bin\Debug\testDXF.exe
+C:\Users\Josep\source\repos\testDXF\bin\Debug\testDXF.pdb
+C:\Users\Josep\source\repos\testDXF\obj\Debug\testDXF.Form1.resources
+C:\Users\Josep\source\repos\testDXF\obj\Debug\testDXF.Properties.Resources.resources
+C:\Users\Josep\source\repos\testDXF\obj\Debug\testDXF.csproj.GenerateResource.cache
+C:\Users\Josep\source\repos\testDXF\obj\Debug\testDXF.csproj.CoreCompileInputs.cache
+C:\Users\Josep\source\repos\testDXF\obj\Debug\testDXF.exe
+C:\Users\Josep\source\repos\testDXF\obj\Debug\testDXF.pdb
+C:\Users\Josep\source\repos\testDXF\obj\Debug\testDXF.csprojAssemblyReference.cache
